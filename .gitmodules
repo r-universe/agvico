@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SDEFSR"]
+	path = SDEFSR
+	url = https://github.com/cran/SDEFSR
+	shallow = true
+	registered = true
